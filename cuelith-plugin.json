@@ -1,0 +1,21 @@
+{
+  "$schema": "https://cuelith.github.io/cuelith-sdk/schema/plugin-1.json",
+  "id": "cuelith.locale.en",
+  "name": "English",
+  "description": "English language for the Cuelith core.",
+  "version": "0.1.0",
+  "publisher": "Cuelith",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/Cuelith/plugin-locale-en",
+  "family": "locale",
+  "icon": "icon.svg",
+  "engines": { "cuelith": ">=0.1.0 <1.0.0", "protocol": "^1.13.0" },
+  "runtime": { "type": "none" },
+  "permissions": [],
+  "dependencies": {},
+  "extends": [],
+  "provides": [],
+  "contributes": {
+    "locales": [{ "lang": "en", "file": "locales/en.json", "name": "English" }]
+  }
+}
