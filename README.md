@@ -7,4 +7,4 @@ English language for [Cuelith](https://github.com/Cuelith/cuelith-core). In Cuel
 
 Every key used by the core (`core.*`) and the protocol (`protocol.*`) must have its translation here, with the same placeholders as the Italian catalogue in `plugin-locale-it`: the language test in `cuelith-core` fails if one is missing.
 
-Apache 2.0 licence.
+GPL 3.0 or later licence (see [LICENSE](LICENSE)). Versions up to 0.1.0 were published under Apache 2.0 and stay available under it.

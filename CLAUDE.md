@@ -7,3 +7,4 @@ Modulo lingua inglese di Cuelith. Fonte di verità: il documento di progetto nel
 - Inglese per chi sta alla regia: frasi semplici e attive, termini del mestiere (Program, Preview, Playlist, Go live, Black, Freeze). Ortografia britannica.
 - Le parole fisse del programma restano uguali in ogni lingua (Verse, Chorus, Bridge…: decisione 0005).
 - Lavoro su `dev`; `main` riceve solo release taggate (SemVer).
+- **Licenza GPL 3.0 o successiva** (decisione 0012), come il nucleo. Le versioni già pubblicate restano Apache; il cambio vale dal prossimo rilascio.

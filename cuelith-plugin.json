@@ -5,7 +5,7 @@
   "description": "English language for the Cuelith core.",
   "version": "0.1.0",
   "publisher": "Cuelith",
-  "license": "Apache-2.0",
+  "license": "GPL-3.0-or-later",
   "repository": "https://github.com/Cuelith/plugin-locale-en",
   "family": "locale",
   "icon": "icon.svg",
