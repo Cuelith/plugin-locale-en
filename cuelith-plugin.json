@@ -3,7 +3,7 @@
   "id": "cuelith.locale.en",
   "name": "English",
   "description": "English language for the Cuelith core.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "Cuelith",
   "license": "GPL-3.0-or-later",
   "repository": "https://github.com/Cuelith/plugin-locale-en",

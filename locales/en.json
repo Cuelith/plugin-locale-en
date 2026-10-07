@@ -386,6 +386,8 @@
   "core.modules.unverifiedHint": "This plugin has not been verified by Cuelith: install it only if you trust its publisher.",
   "core.modules.install": "Install",
   "core.modules.installing": "Installing…",
+  "core.modules.installingLocal": "Installing… this can take a few seconds",
+  "core.modules.uninstalling": "Uninstalling…",
   "core.modules.update": "Update",
   "core.modules.updateTo": "Update to {version}",
   "core.modules.installedLabel": "Installed",
