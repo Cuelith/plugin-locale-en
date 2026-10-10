@@ -829,5 +829,19 @@
   "core.textstyles.vAlign.bottom": "Bottom",
   "core.textstyles.sample": "Evening streets\nlights on above us\nthe city breathes slowly, right beside us\nevery window glowing is one more story, so stay a little longer",
   "core.textstyles.previewFromSlide": "Preview with the text of the slide in preview.",
-  "core.textstyles.previewFromSample": "No slide in preview: this is sample text, with short and long lines."
+  "core.textstyles.previewFromSample": "No slide in preview: this is sample text, with short and long lines.",
+  "core.editor.format.label": "Formatting of the words",
+  "core.editor.format.size": "Size",
+  "core.editor.format.sizeNormal": "Normal",
+  "core.editor.format.bold": "Bold",
+  "core.editor.format.boldShort": "B",
+  "core.editor.format.italic": "Italic",
+  "core.editor.format.italicShort": "I",
+  "core.editor.format.color": "Colour",
+  "core.editor.format.clear": "Clear formatting",
+  "core.editor.format.hint": "Select some words to change their size, bold, italic or colour.",
+  "core.editor.format.preview": "How the audience sees it",
+  "protocol.field.spansOutside": "The formatted words go outside the text.",
+  "core.error.richTextNoSession": "There is no text being edited to apply the formatting to.",
+  "core.error.richTextNoSelection": "Select some words first."
 }
