@@ -843,5 +843,15 @@
   "core.editor.format.preview": "How the audience sees it",
   "protocol.field.spansOutside": "The formatted words go outside the text.",
   "core.error.richTextNoSession": "There is no text being edited to apply the formatting to.",
-  "core.error.richTextNoSelection": "Select some words first."
+  "core.error.richTextNoSelection": "Select some words first.",
+  "core.editor.format.outline": "Outline",
+  "core.editor.format.none": "None",
+  "core.editor.format.outline.thin": "Thin",
+  "core.editor.format.outline.medium": "Medium",
+  "core.editor.format.outline.thick": "Thick",
+  "core.editor.format.outlineColor": "Outline colour",
+  "core.editor.format.shadow": "Shadow",
+  "core.editor.format.shadow.none": "None",
+  "core.editor.format.shadow.light": "Light",
+  "core.editor.format.shadow.strong": "Strong"
 }
